@@ -1,16 +1,18 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Working papers 
+======
+Dynamic Information Design under Constrained Information Rules (with Daniel Monte) - November, 2020
+* Revision requested at American Economic Journal: Microeconomics
+
+Work in progress  
+======
+Dynamic Information Design under Constrained Information Rules (with Daniel Monte) - November, 2020
+* Revision requested at American Economic Journal: Microeconomics
